@@ -1,0 +1,15 @@
+.demo {
+  align: center;
+}
+
+.container {
+  text-align: left;
+  margin-top: 2%;
+}
+#guess {
+  width: 27%;
+}
+
+#bid {
+  background-color: #ffffff;
+}
